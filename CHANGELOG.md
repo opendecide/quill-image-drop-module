@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.4 - July 19, 2017
+
+- Migrate to TypeScript
+
 ## v1.0.3 - March 29, 2017
 
 - Drop images at mouse coordinates instead of last caret position ([Issue #2](https://github.com/kensnyder/quill-image-drop-module/issues/2))
